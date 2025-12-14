@@ -1,1 +1,3 @@
 file 2 text
+
+Change file 2
