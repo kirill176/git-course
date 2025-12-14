@@ -1,1 +1,3 @@
-x
+const Al = () => {};
+
+export default Al;
